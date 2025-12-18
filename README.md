@@ -8,8 +8,8 @@ This project focuses on analyzing retail sales data to gain insights into sales 
 The objective of this project is to analyze retail sales data to understand overall sales and profit performance, identify top-performing product categories and sub-categories, examine regional sales distribution, observe seasonal trends, and analyze customer payment preferences.
 
 📂 Dataset :
-Source: Kaggle
-Link: https://www.kaggle.com/datasets/shantanugarg274/sales-dataset
+ Source: Kaggle
+ Link: https://www.kaggle.com/datasets/shantanugarg274/sales-dataset
 
 🧩 Business Problem :
 
